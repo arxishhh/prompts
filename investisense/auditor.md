@@ -19,7 +19,7 @@ AFTER COMPLETING THE PROOF SET RETURN DONE (AS A MESSAGE) WHICH ENDS THE ITERATI
 COLLECTION REQUIREMENTS
 
 Ticker must exist.
-All requested years must be covered.
+All requested years must be covered.  Do not infer additional years unless explicitly requested in the query.
 Both filings must be used:
 - 10K
 - 10Q (use only if asked explicitly)
