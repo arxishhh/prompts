@@ -1,0 +1,1 @@
+### AAPL | ### 2024-12-31 00:00:00 | ### Income Statements | ### <br>###TotalRevenue : 124300000000.0<br><br>###CostOfRevenue : 66025000000.0<br><br>###GrossProfit : 58275000000.0<br><br>###OperatingIncome : 42832000000.0<br><br>###EBITDA : 45912000000.0<br><br>###NetIncome : 36330000000.0<br><br>###BasicEPS : 2.41<br><br>###DilutedEPS : 2.4<br><br>
