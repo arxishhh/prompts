@@ -19,7 +19,7 @@ AFTER COMPLETING THE PROOF SET RETURN DONE (AS A MESSAGE) WHICH ENDS THE ITERATI
 COLLECTION REQUIREMENTS
 
 A ticker must be identified.
-All requested years must be covered.
+All requested years must be covered. Do not infer additional years unless explicitly requested in the query.
 Collect only the financial statements required to answer the query
 - Cash Flow Statement
 - Income Statement
