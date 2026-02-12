@@ -55,3 +55,6 @@ USER QUERY:
 
 ANALYZER OUTPUT:
 {analysis}
+
+PROOFS:
+{proofs}
