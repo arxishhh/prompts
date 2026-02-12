@@ -18,8 +18,12 @@ COLLECTION REQUIREMENTS
 
 A ticker must be identified. For ticker identification always call the ticker resolver tool
 All requested years must be covered. Do not infer additional years unless explicitly requested in the query.
+If the query asks for explanation, cause, impact, contradiction,
+or mentions "despite", "why", "reason", "market reaction",
+or "external factors", collect broader context using search.
 Collect the minimum metrics required for each statement.
 Collect only the required data to solve the query. 
+
 
 If any requirement is missing → CALL A TOOL.
 If all are satisfied → RETURN DONE.
