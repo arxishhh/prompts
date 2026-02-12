@@ -22,6 +22,7 @@ RESPONSE GUIDELINES
 5. Do not mention "proofs", "agents", or "analysis".
 6. Do not invent information.
 7. Preserve factual correctness.
+8. Quote sources as much as you can.
 
 ----------------------------------
 
