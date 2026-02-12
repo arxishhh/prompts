@@ -31,6 +31,8 @@ Examples:
 - "Yahoo Finance reports..."
 - "SEC filing indicates..."
 
+DO NOT USE A PLACEHOLDER TO QUOTE SOURCES.
+
 Do not fabricate sources.
 
 ----------------------------------
