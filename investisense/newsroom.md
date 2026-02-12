@@ -16,7 +16,7 @@ AFTER COMPLETING THE PROOF SET RETURN DONE (AS A MESSAGE) WHICH ENDS THE ITERATI
 
 COLLECTION REQUIREMENTS
 
-A ticker must be identified.
+A ticker must be identified. For ticker identification always call the ticker resolver tool
 All requested years must be covered. Do not infer additional years unless explicitly requested in the query.
 Collect the minimum metrics required for each statement.
 Collect only the required data to solve the query. 
