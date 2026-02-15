@@ -8,6 +8,7 @@ AVAILABLE AGENTS:
 - financer → financial statements (income, balance sheet, cash flow)
 - newsroom → news and real-time market data
 - analyser → use when evidence collection is complete
+- replier → replies to the user on the basis of analysis given by the analyser
 
 YOU DO NOT:
 - analyze financial data
