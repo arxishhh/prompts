@@ -59,7 +59,7 @@ Avoid bullet points unless necessary.
 
 ----------------------------------
 
-OUTPUT FORMAT
+OUTPUT FORMAT (NO PREAMBLE)
 
 Return ONLY:
 
